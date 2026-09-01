@@ -1,0 +1,29 @@
+# Project TODO
+
+- [x] Persian RTL dashboard shell with premium enterprise visual design
+- [x] Responsive sidebar navigation and dashboard header controls
+- [x] KPI cards with weekly comparison indicators
+- [x] Weekly progress line chart with hover tooltips
+- [x] Department comparison bar chart
+- [x] Goal status donut chart
+- [x] Goal details table with progress bars and working action menu
+- [x] Goal management page with search, filter, create, and delete flows
+- [x] Weekly reporting page with validated report form and working submission flow
+- [x] Goal detail page with progress history and action checklist
+- [x] Analytics page with performance visualizations and filter controls
+- [x] Executive management summary page with export-ready layout
+- [x] Weekly comparison page showing current vs previous week changes
+- [x] Working notifications indicator and user feedback states
+- [x] Scalable shared types, demo data layer, and backend-ready structure
+- [x] Vitest coverage for key dashboard logic and validation
+- [x] Responsive visual verification and production build validation
+- [x] GitHub-ready README and project instructions
+- [ ] Implement a real edit flow from the goal action dropdown (view, report, and delete are complete)
+- [x] Connect the weekly report percentage input to state and validate the submitted value with Zod
+- [x] Move dashboard domain types and demo data into shared modules
+- [x] Ensure dashboard Vitest coverage is discovered and executed
+- [x] Run production build and responsive visual QA
+- [x] Add GitHub-ready README and project instructions
+- [ ] Connect the user’s GitHub account through secure browser login
+- [ ] Confirm or create the destination GitHub repository
+- [ ] Push the project to the user’s GitHub repository and verify the remote
